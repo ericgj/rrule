@@ -7,9 +7,8 @@
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "main": "component.js",
+  "main": "lib/rrule.js",
   "scripts": [
-    "component.js",
     "lib/rrule.js",
     "lib/nlp.js"
   ]
