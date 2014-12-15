@@ -10,7 +10,7 @@
   "main": "component.js",
   "scripts": [
     "component.js",
-    "./lib/rrule.js",
-    "./lib/nlp.js"
+    "lib/rrule.js",
+    "lib/nlp.js"
   ]
 }
