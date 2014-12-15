@@ -1,0 +1,16 @@
+{
+  "name": "rrule",
+  "repo": "ericgj/rrule",
+  "description": "Javascript library for working with recurrence rules for calendar dates",
+  "version": "2.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "component.js",
+  "scripts": [
+    "component.js",
+    "./lib/rrule.js",
+    "./lib/nlp.js"
+  ]
+}
